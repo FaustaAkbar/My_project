@@ -2,3 +2,4 @@ Ingin lanjut pakai git
 - install git
 - coba git
 - bisa pullrequwst
+- mahir golang
