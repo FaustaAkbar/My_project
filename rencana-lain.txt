@@ -1,0 +1,3 @@
+Ingin lanjut pakai git
+- install git
+- coba git
