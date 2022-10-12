@@ -3,5 +3,6 @@ Ingin lanjut pakai git
 - coba git
 - bisa pullrequwst
 - mahir golang
-- tiap hari koding
-= cova
+- terus belajar
+- masuk gojek
+
