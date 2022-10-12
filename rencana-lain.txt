@@ -4,3 +4,4 @@ Ingin lanjut pakai git
 - bisa pullrequwst
 - mahir golang
 - tiap hari koding
+= cova
