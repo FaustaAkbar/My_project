@@ -1,0 +1,3 @@
+Project semua pemrograman go
+- Operasi aritmatika pecahan
+- 
