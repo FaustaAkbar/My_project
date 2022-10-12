@@ -5,3 +5,4 @@ Ingin lanjut pakai git
 - mahir golang
 - terus belajar
 - masuk gojek
+
